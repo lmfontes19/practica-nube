@@ -1,0 +1,83 @@
+#img1 {
+    width: 35px;
+    height: 35px;
+}
+
+#img2 {
+    width: 100%;
+    height: 80%;
+}
+
+.font-img {
+    padding-left: 15px;
+}
+
+#card2 {
+    padding-top: 15px;
+}
+
+#navbar1 {
+    justify-content: center;
+}
+
+#navpag {
+    padding-top: 20px;
+}
+
+#font-img {
+    font-size: 12px;
+    color: gray;
+}
+
+#modal-login {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#mod-body {
+    border-radius: 8px;
+    width: 100%;
+}
+
+#mod-footer {
+    display: block;
+    text-align: center;
+}
+
+#register {
+    color: blue
+}
+
+#form-pad {
+    padding: 3px;
+}
+
+#carouselId {
+    margin-bottom: 15px;
+}
+
+#img-prod {
+    float: right;
+}
+
+#med-bot-but {
+    width: 25%;
+    height: 40px;
+    font-size: 18px;
+}
+
+#add_to_cart {
+    margin: 5px;
+    background-color: #17A2B6;
+    border-color: #17A2B6;
+    width: 95%;
+}
+
+#container_prod {
+    margin-top: 50px;
+}
+
+#trash {
+    border-left: 5px;
+}
